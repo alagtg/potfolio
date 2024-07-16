@@ -8,5 +8,3 @@ git:
         git push -u origin master
 
 
-run : npm run dev for vue.js
-      php artisan serve for laravel
